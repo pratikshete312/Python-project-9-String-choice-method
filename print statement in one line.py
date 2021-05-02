@@ -1,0 +1,7 @@
+print('pratik')
+print('python')
+print()
+print('pratik',end='')
+print('python')
+print()
+print('pratik',end="python")
